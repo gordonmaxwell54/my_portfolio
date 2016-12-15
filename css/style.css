@@ -1,0 +1,48 @@
+header {
+	background-color: red;
+	width: 100%;
+	height: 100px;
+	font-size: 50px;
+	font-family: Impact;
+	text-align: center;
+}
+nav {
+	background-color: blue;
+	width: 100%;
+	height: 50px;
+	font-size: 25px;
+	font-family: Impact;
+	text-align: left;
+}
+aside {
+	background-color: yellow;
+	width: 100%;
+	height: 100px;
+	font-size: 25px;
+	font-family: Impact;
+	text-align: left;
+}
+section {
+	background-color: green;
+	width: 100%;
+	height: 100px;
+	font-size: 25px;
+	font-family: Impact;
+	text-align: left;
+}
+.section2 {
+	background-color: cyan;
+	width: 100%;
+	height: 100px;
+	font-size: 25px;
+	font-family: Impact;
+	text-align: left;
+}
+footer {
+	background-color: violet;
+	width: 100%;
+	height: 100px;
+	font-size: 25px;
+	font-family: Impact;
+	text-align: left;
+}
